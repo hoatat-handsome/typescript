@@ -1,0 +1,14 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "My first app",
+  "main": "greeter.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "HoaTat",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
